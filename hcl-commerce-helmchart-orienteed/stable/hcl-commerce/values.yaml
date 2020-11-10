@@ -24,7 +24,7 @@ common:
   ## Commerce environment info
   tenant: ori
   environmentName: test
-  environmentType: auth
+  environmentType: share
 
   ## Search type [solr|elastic]
   searchEngine: elastic
