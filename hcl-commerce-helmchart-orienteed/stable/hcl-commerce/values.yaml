@@ -52,7 +52,7 @@ common:
   spiUserPwdBase64:
 
   ## Vault v1 api url. Following default value is for development mode vault deployed in vault name space 
-  vaultUrl: http://vault-consul.vault.svc.cluster.local:8200/v1
+  vaultUrl: http://vault-consul.commerce.svc.cluster.local:8200/v1
 
   ## External domain used for ingress and store preview URL
   ## For example. in hostname store.demoqaauth.mycompany.com , .mycompany.com would be the External Domain name.
